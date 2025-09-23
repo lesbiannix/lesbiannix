@@ -1,6 +1,5 @@
 # 🐾✨ Welcome to Lucy's Catgirl Coding Corner! 🏳️‍⚧️😺
 
-![Banner with trans flag and catgirl vibes](https://user-images.githubusercontent.com/placeholder/banner.png)
 
 ## About Me
 
