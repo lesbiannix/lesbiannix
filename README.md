@@ -7,7 +7,7 @@
 Hi there! I’m Lucy, a 19-year-old transfem nonbinary genderfluid catgirl 🏳️‍⚧️😺 (they/she).  
 I’ve been tinkering with Linux since I was 9, and I’m passionate about open source, prompt engineering, and making tech more inclusive for everyone.
 
-- **Pronouns:** they/she (but feel free to ask what I’m comfy with today!)
+- **Pronouns:** she/her (but feel free to ask what I’m comfy with today!)
 - **Identity:** Transfem, nonbinary, genderfluid, and proud 🏳️‍⚧️
 - **Advocacy:** Fierce supporter of trans rights & LGBTQ+ visibility
 
@@ -40,7 +40,7 @@ I’ve been tinkering with Linux since I was 9, and I’m passionate about open 
 
 ## 📬 Contact & Social
 
-- **Pronouns:** they/she (let me know what you prefer to use!)
+- **Pronouns:** she/her (let me know what you prefer to use!)
 - **Let’s connect!**  
   - 📧 [lucy at c-base.org](mailto:lucy@c-base.org)
   - 🟩 Matrix: `@lucy:matrix.org`
