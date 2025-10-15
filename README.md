@@ -50,8 +50,8 @@ _Always happy to chat about tech, trains, or trans rights!_
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucy&show_icons=true&theme=catppuccin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy&layout=compact&theme=catppuccin)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesbiannix&show_icons=true&theme=catppuccin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesbiannix&layout=compact&theme=catppuccin)
 
 ---
 
